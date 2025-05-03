@@ -1,4 +1,3 @@
-# Blockhouse-Work-Trial-
 # Smart Order Router - Cont & Kukanov Implementation
 
 This project implements and backtests a Smart Order Router (SOR) based on the static cost model introduced by Cont & Kukanov in their paper "Optimal Order Placement in Limit Order Markets". The algorithm optimally splits orders across multiple trading venues to minimize execution costs.
